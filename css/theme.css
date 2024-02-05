@@ -1,0 +1,12 @@
+/* Path: css/theme.css */
+
+:root {
+    --color-alpha: #00c3ff;
+    --color-beta: #001518;
+    --color-gamma: #0000a7cb;
+    --color-delta: #0053b3;
+    --color-font-white: #ffffff;
+    --color-font-black: #000000;
+    --font-lato: 'Lato', sans-serif;
+    --linear-gradient: linear-gradient(45deg, var(--color-alpha), var(--color-beta));
+}
